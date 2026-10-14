@@ -1,5 +1,2 @@
 # FraudGuard-AI
 Enterprise Credit Card Fraud Detection System using Machine Learning and Streamlit.
-
-
-fraudguard
